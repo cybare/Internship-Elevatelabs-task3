@@ -16,8 +16,12 @@ Vulnerability scan report with identified issues
 
 ### Solution :
 
-#### Step 1 :- Install Nessus Essentials.
+#### Step 1 :- Install Nessus Essentials for kali linux
+
+from website https://docs.tenable.com/nessus/Content/InstallNessus.htm
 
 ![Websitepic](Screenshots/Install/Websitepic.png)
 
 
+
+#### Step 2 :-
