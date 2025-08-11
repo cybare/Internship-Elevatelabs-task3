@@ -16,7 +16,7 @@ Vulnerability scan report with identified issues
 
 ### Solution :
 
-#### Step 1 :- Instal Nessus Essentials.
+#### Step 1 :- Install Nessus Essentials.
 
 
 
