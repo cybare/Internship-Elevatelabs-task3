@@ -56,4 +56,3 @@ Nessus will then download plugins — this can take 1 hour.
 
 Once it finishes, log in with username and password.
 
-#### Step 2 :-
